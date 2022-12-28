@@ -1,0 +1,3 @@
+1 INTRODUCTION
+
+We have learned multiple classification models in the course, and we also learned that there's no best model for all problems. Instead, it depends on the tasks and dataset. In this report, I looked into the smartphone price dataset and investigated each model's performance - including accuracy and efficiency. In the scope of this report, I selected five models: Decision Tree, Random Forest, AdaBoost, XGBoost and SVC. I fit each model on the dataset and found that SVC had the highest accuracy given different sizes of training samples. Moreover, SVC was very efficient as its training time was less than the other models except for the decision tree model. 
